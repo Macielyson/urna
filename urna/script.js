@@ -11,7 +11,7 @@ let numeros = document.querySelector('.d-1-3');
 // variaves de cotrole de ambiente / começar com as etapas
 let etapaAtual = 0;
 
-//para preencher os numeros
+//para preencher oss numeros
 let numero = '';
 
 
