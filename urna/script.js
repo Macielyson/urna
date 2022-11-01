@@ -20,7 +20,7 @@ function comecarEtapa() {
     votoBranco = false;
 
     for (let i = 0; i < etapa.numeros; i++) {
-        //ele adiciona o pisca no primeiro elemento
+        //ele adiciona o pisca no primeiro elementos
         if (i === 0) {
             numerosHtml += '<div class="numero pisca"></div>';
         } else {
