@@ -1,10 +1,9 @@
-// isso aqui é json puro
 let etapas = [{
     titulo: 'VEREADOR',
     numeros: 5,
     candidatos: [
         {
-            numero: 38111,
+            numero: '38111',
             nome: 'Fulano de Tal',
             partido: 'ABC',
             fotos: [{
@@ -13,7 +12,7 @@ let etapas = [{
             }]
         },
         {
-            numero: 77222,
+            numero: '77222',
             nome: 'Beltrano da Silva',
             partido: 'DEFG',
             fotos: [{
@@ -27,8 +26,8 @@ let etapas = [{
     numeros: 2,
     candidatos: [
         {
-            numero: 99,
-            name: 'Ciclano',
+            numero: '99',
+            nome: 'Ciclano',
             partido: 'ABC',
             vice: 'Cic',
             fotos: [
@@ -37,8 +36,8 @@ let etapas = [{
             ]
         },
         {
-            numero: 84,
-            name: 'Zulano',
+            numero: '84',
+            nome: 'Zulano',
             partido: 'QUIE',
             vice: 'Zul',
             fotos: [
